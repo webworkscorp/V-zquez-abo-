@@ -210,9 +210,6 @@ export default function App() {
                     </p>
                   </div>
                 </div>
-                <div className="aspect-video bg-black overflow-hidden">
-                  <img src="https://picsum.photos/seed/office-minimal/1200/675?grayscale" className="w-full h-full object-cover opacity-80" alt="Office" referrerPolicy="no-referrer" />
-                </div>
               </div>
             </motion.div>
           </div>
