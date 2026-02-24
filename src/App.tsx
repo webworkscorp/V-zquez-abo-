@@ -13,10 +13,10 @@ const CONTACT = {
 };
 
 const AREAS = [
-  { id: "01", name: "Derecho Migratorio", desc: "Estrategias de movilidad global y residencia." },
-  { id: "02", name: "Defensa Penal", desc: "Protección rigurosa en litigios complejos." },
-  { id: "03", name: "Derecho de Familia", desc: "Marcos legales para transiciones personales." },
-  { id: "04", name: "Servicios Notariales", desc: "Validación administrativa y legal de precisión." }
+  { id: "01", name: "Derecho Migratorio", desc: "Asesoría completa en trámites de residencia, visas, permisos de trabajo, naturalización y procesos ante Migración. Te acompañamos paso a paso para que tu proceso sea claro, seguro y sin errores que puedan atrasarlo." },
+  { id: "02", name: "Defensa Penal", desc: "Representación legal en procesos penales, desde denuncias e investigaciones hasta juicios. Analizamos tu caso con detalle, construimos una estrategia sólida y protegemos tus derechos en todo momento." },
+  { id: "03", name: "Derecho de Familia", desc: "Divorcios, pensiones alimentarias, guarda y crianza, régimen de visitas y procesos de adopción. Trabajamos con firmeza y sensibilidad, buscando acuerdos justos y protegiendo el bienestar de tu familia." },
+  { id: "04", name: "Servicios Notariales", desc: "Redacción y autenticación de contratos, poderes, declaraciones juradas, traspasos y constitución de sociedades. Nos aseguramos de que cada documento cumpla con la ley y te brinde total respaldo legal." }
 ];
 
 const TEAM = [
